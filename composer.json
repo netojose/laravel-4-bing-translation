@@ -1,0 +1,23 @@
+{
+    "name": "sputinyk/bing-translation",
+    "type": "library",
+    "keywords": [ "Bing translate", "translation", "translate", "laravel", "laravel4" ],
+    "license": "MIT",
+    "description": "Port of the Bing Translate PHP wrapper for laravel 4.2",
+    "authors": [
+        {
+            "name": "José Neto",
+            "email": "sputinykster@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Sputinyk\\BingTranslation": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
