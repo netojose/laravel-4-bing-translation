@@ -27,7 +27,7 @@ Finally, add the service provider to `app/config/app.php`, within the `providers
 
 ## Configuration
 
-Run `php artisan config:publish Sputinyk/bingtranslation` to publish the package config file. Add your API key and your done.
+Run `php artisan config:publish Sputinyk/bing-translation` to publish the package config file. Add your API key and your done.
 
 ## Usage
 
